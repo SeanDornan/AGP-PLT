@@ -1,0 +1,14 @@
+
+What has been attempted from the specification:
+
+All the shaders
+Light Source (taken from Lab 4 base code)
+
+What has been left out:
+
+Location x with Gouraud (was attempted then deleted)
+Interleaved vertex buffer (wasn't sure where to start. Tried looking for tutorials online but most were pretty vague) Again, I did attempt it but I had no luck with it, decided to then leave it out
+Git Hub commit history (still not comfortable with Github, but I'm trying my best, I should be more comfortable with it as time goes on)
+
+Group member: Dale Thomson
+Individual Projects: Still discussing between each other on what we could do separately, we will have decided by the end of this week (by the 21st of October)

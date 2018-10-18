@@ -1,0 +1,18 @@
+﻿  rt3dObjLoader.cpp
+f:\advance_graphic_programming\agp-labtest-oct19\agp-plt-oct19\agp-test\rt3dobjloader.cpp(197): warning C4018: '<': signed/unsigned mismatch
+f:\advance_graphic_programming\agp-labtest-oct19\agp-plt-oct19\agp-test\rt3dobjloader.cpp(135): warning C4101: 'z': unreferenced local variable
+f:\advance_graphic_programming\agp-labtest-oct19\agp-plt-oct19\agp-test\rt3dobjloader.cpp(135): warning C4101: 'y': unreferenced local variable
+f:\advance_graphic_programming\agp-labtest-oct19\agp-plt-oct19\agp-test\rt3dobjloader.cpp(135): warning C4101: 'x': unreferenced local variable
+  rt3d.cpp
+  main.cpp
+f:\advance_graphic_programming\agp-labtest-oct19\agp-plt-oct19\agp-test\main.cpp(345): warning C4305: '+=': truncation from 'double' to 'float'
+f:\advance_graphic_programming\agp-labtest-oct19\agp-plt-oct19\agp-test\main.cpp(346): warning C4305: '-=': truncation from 'double' to 'float'
+f:\advance_graphic_programming\agp-labtest-oct19\agp-plt-oct19\agp-test\main.cpp(351): warning C4305: '-=': truncation from 'double' to 'float'
+f:\advance_graphic_programming\agp-labtest-oct19\agp-plt-oct19\agp-test\main.cpp(352): warning C4305: '-=': truncation from 'double' to 'float'
+f:\advance_graphic_programming\agp-labtest-oct19\agp-plt-oct19\agp-test\main.cpp(353): warning C4305: '+=': truncation from 'double' to 'float'
+f:\advance_graphic_programming\agp-labtest-oct19\agp-plt-oct19\agp-test\main.cpp(354): warning C4305: '+=': truncation from 'double' to 'float'
+f:\advance_graphic_programming\agp-labtest-oct19\agp-plt-oct19\agp-test\main.cpp(355): warning C4305: '+=': truncation from 'double' to 'float'
+f:\advance_graphic_programming\agp-labtest-oct19\agp-plt-oct19\agp-test\main.cpp(356): warning C4305: '-=': truncation from 'double' to 'float'
+  Generating Code...
+  AGP-Test.vcxproj -> F:\Advance_Graphic_Programming\AGP-LabTest-Oct19\AGP-PLT-Oct19\Debug\AGP-Test.exe
+  AGP-Test.vcxproj -> F:\Advance_Graphic_Programming\AGP-LabTest-Oct19\AGP-PLT-Oct19\Debug\AGP-Test.pdb (Partial PDB)
